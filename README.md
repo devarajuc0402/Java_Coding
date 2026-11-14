@@ -1,4 +1,5 @@
 # Java_Coding
+1. Reverse string without using built in functions
 
 # Stream Questions:
 1. Find the Duplicate character in String
@@ -28,7 +29,7 @@
 17. Find department with second maximum count employees
 18. Find employees belonging to the department with the 2nd maximum employee count
 19. Find employees on department 2nd maximum employee [if employee has same count print all]
-20.
+20. Find employees on max department count [use mapping() here]-[if employee has same count print all]
 
 
 
