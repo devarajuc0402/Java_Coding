@@ -23,4 +23,12 @@
 13. Find second max average salary department
 14. Find employee with same salary [75000 -> (a, b)]
 15. Find highest number of department based on employees
+16. Find highest number of department based on employees, if same number of employees 
+	present show all those department
+17. Find department with second maximum count employees
+18. Find employees belonging to the department with the 2nd maximum employee count
+19. Find employees on department 2nd maximum employee [if employee has same count print all]
+20.
+
+
 

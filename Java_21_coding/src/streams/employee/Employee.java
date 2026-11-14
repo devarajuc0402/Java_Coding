@@ -26,9 +26,12 @@ class Employee {
 				new Employee(5, "Ravi", "HR", 55000.0),
 				new Employee(1, "Kumar", "IT", 90000.0),
 				new Employee(4, "Priya", "HR", 65000.0),
+				new Employee(2, "Yo", "Fie", 80000.0),
 				new Employee(2, "Jo", "Fie", 80000.0),
 				new Employee(2, "John", "Finance", 80000.0),
-				new Employee(1, "Raj", "IT", 100000.0)
+				new Employee(2, "Bob", "Finance", 70000.0),
+				new Employee(7, "Raj", "IT", 100000.0),
+				new Employee(6, "Dev", "HR", 10000.0)
 		);		
 	}
 
