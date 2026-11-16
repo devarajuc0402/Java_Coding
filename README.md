@@ -9,6 +9,7 @@
 2. Find non repeated character in a string
 3. Find 3 highest employee salary by using single loop
 4. Find 3 highest employee salary and print all employees by using single loop
+5. Find longest consecutive sequence of integers
 
 # Stream Questions:
 1. Find the Duplicate character in String
