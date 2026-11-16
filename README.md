@@ -12,6 +12,7 @@
 5. Find longest consecutive sequence of integers
 6. Find first repeated number in array based on index
 7. Count character occurrence in a string
+8. Second most frequent character in a string
 
 # Stream Questions:
 1. Find the Duplicate character in String
