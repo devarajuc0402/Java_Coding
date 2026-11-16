@@ -29,8 +29,11 @@ public class Employee {
 				new Employee(2, "Yo", "Fie", 80000.0),
 				new Employee(2, "Jo", "Fie", 80000.0),
 				new Employee(2, "John", "Finance", 90000.0),
+				new Employee(2, "Alice", "Finance", 90000.0),
 				new Employee(2, "Bob", "Finance", 70000.0),
 				new Employee(7, "Raj", "IT", 100000.0),
+				new Employee(7, "Abc", "IT", 100000.0),
+				new Employee(7, "Xyz", "IT", 100000.0),
 				new Employee(6, "Dev", "HR", 10000.0)
 		);		
 	}

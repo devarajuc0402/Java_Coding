@@ -8,6 +8,7 @@
 1. Reverse string without using built in functions
 2. Find non repeated character in a string
 3. Find 3 highest employee salary by using single loop
+4. Find 3 highest employee salary and print all employees by using single loop
 
 # Stream Questions:
 1. Find the Duplicate character in String
