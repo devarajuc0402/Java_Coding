@@ -10,6 +10,8 @@
 3. Find 3 highest employee salary by using single loop
 4. Find 3 highest employee salary and print all employees by using single loop
 5. Find longest consecutive sequence of integers
+6. Find first repeated number in array based on index
+7. Count character occurrence in a string
 
 # Stream Questions:
 1. Find the Duplicate character in String
