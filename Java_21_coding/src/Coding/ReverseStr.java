@@ -17,7 +17,8 @@ public class ReverseStr {
 			ch[j] = temp;
 		}
 		System.out.println(Arrays.toString(ch));
-		System.out.println(new String(ch));
+		String res = new String(ch);
+		System.out.println(new String(res));
 		
 	}
 }
