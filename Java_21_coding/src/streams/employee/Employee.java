@@ -3,11 +3,11 @@ package streams.employee;
 import java.util.Arrays;
 import java.util.List;
 
-class Employee {
-    int id;
-    String name;
-    String department;
-    double salary;
+public class Employee {
+    public int id;
+    public String name;
+    public String department;
+    public double salary;
     
     public Employee() {}
     		
@@ -28,7 +28,7 @@ class Employee {
 				new Employee(4, "Priya", "HR", 65000.0),
 				new Employee(2, "Yo", "Fie", 80000.0),
 				new Employee(2, "Jo", "Fie", 80000.0),
-				new Employee(2, "John", "Finance", 80000.0),
+				new Employee(2, "John", "Finance", 90000.0),
 				new Employee(2, "Bob", "Finance", 70000.0),
 				new Employee(7, "Raj", "IT", 100000.0),
 				new Employee(6, "Dev", "HR", 10000.0)

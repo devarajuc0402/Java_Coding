@@ -1,5 +1,12 @@
+# Coding Plan:
+1. Revising all the below solutions without looking at previous code.
+2. Core Java coding problems.
+3. Java concurrency and collections interview questions.
+4. Spring Boot and microservices scenario-based questions.
+
 # Java_Coding
 1. Reverse string without using built in functions
+2. Find non repeated character in a string
 
 # Stream Questions:
 1. Find the Duplicate character in String
@@ -30,6 +37,7 @@
 18. Find employees belonging to the department with the 2nd maximum employee count
 19. Find employees on department 2nd maximum employee [if employee has same count print all]
 20. Find employees on max department count [use mapping() here]-[if employee has same count print all]
+21. Find second max salary of employee without using sorting using flatmap [print only salary]
 
 
 
