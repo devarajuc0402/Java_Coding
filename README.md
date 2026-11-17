@@ -16,6 +16,7 @@
 9. Find maximum frequent word in a sentence [if have same count print all]
 10. Find first and second highest word count in a sentence
 11. Find longest non repeated characters count in a string
+12. Longest sub array with sum of k
 
 # Stream Questions:
 1. Find the Duplicate character in String
