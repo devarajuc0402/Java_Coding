@@ -15,6 +15,7 @@
 8. Second most frequent character in a string
 9. Find maximum frequent word in a sentence [if have same count print all]
 10. Find first and second highest word count in a sentence
+11. Find longest non repeated characters count in a string
 
 # Stream Questions:
 1. Find the Duplicate character in String
