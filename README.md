@@ -17,7 +17,9 @@
 10. Find first and second highest word count in a sentence
 11. Find longest non repeated characters count in a string
 12. Longest sub array with sum of k
-13. Move all zeros at the end of the array
+13. Move all zeros at the end of the same array
+14. Move all zeros at the start of the same array
+15. Find the missing number in an consecutive numbers array
 
 # Stream Questions:
 1. Find the Duplicate character in String
