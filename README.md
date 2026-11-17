@@ -28,6 +28,7 @@
 21. Find first repeated character in a string using loop
 22. Find longest word in a string using map
 23. Find the second max word in a sentence
+24. Find the longest non repeated first characters in a string
 
 # Stream Questions:
 1. Find the Duplicate character in String

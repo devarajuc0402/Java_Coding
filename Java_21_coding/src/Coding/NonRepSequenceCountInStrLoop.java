@@ -10,8 +10,8 @@ public class NonRepSequenceCountInStrLoop {
 
 	public static void main(String[] args) {
 		
-//		String s = "abcabcbb";
-		String s = "pwwkew";
+		String s = "abcabcbb";
+//		String s = "pwwkew";
 //		String s = "abcdef";
 		System.out.println(s);
 		
