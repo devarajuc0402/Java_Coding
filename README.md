@@ -20,6 +20,7 @@
 13. Move all zeros at the end of the same array
 14. Move all zeros at the start of the same array
 15. Find the missing number in an consecutive numbers array
+16. Find duplicate elements in an array
 
 # Stream Questions:
 1. Find the Duplicate character in String
