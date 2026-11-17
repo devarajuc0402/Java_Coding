@@ -14,6 +14,7 @@
 7. Count character occurrence in a string
 8. Second most frequent character in a string
 9. Find maximum frequent word in a sentence [if have same count print all]
+10. Find first and second highest word count in a sentence
 
 # Stream Questions:
 1. Find the Duplicate character in String
@@ -46,5 +47,6 @@
 20. Find employees on max department count [use mapping() here]-[if employee has same count print all]
 21. Find second max salary of employee without using sorting using flatmap [print only salary]
 22. Find 3 highest salary and display all employees
+23. Find top 3 highest salary and sort and display all employees
 
 
