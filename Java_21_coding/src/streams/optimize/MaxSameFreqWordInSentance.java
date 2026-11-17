@@ -12,8 +12,8 @@ public class MaxSameFreqWordInSentance {
 
 	public static void main(String[] args) {
 		
-		String s = "Java is great. Java is powerful, and Java is popular!";
-//		String s = "Java is great. Java is powerful, and Java is popular! Spring is great.";
+//		String s = "Java is great. Java is powerful, and Java is popular!";
+		String s = "Java is great. Java is powerful, and Java is popular! Spring is great.";
 		System.out.println(s);
 		String st = s.toLowerCase().trim().replaceAll("[^a-zA-Z0-9\\s]", "");
 		System.out.println(st);

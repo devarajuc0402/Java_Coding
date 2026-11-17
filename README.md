@@ -48,5 +48,7 @@
 21. Find second max salary of employee without using sorting using flatmap [print only salary]
 22. Find 3 highest salary and display all employees
 23. Find top 3 highest salary and sort and display all employees
+24. Find top 2 highest count of word in a sentence with sorting
+25. Find top 2 highest count of word in a sentence without sorting
 
 
