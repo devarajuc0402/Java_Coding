@@ -22,6 +22,8 @@
 15. Find the missing number in an consecutive numbers array
 16. Find duplicate elements in an array
 17. Find missing consecutive number and duplicate number
+18. Find pair of sum equal to k with loop
+19. Find the pair of sum equal to k with single loop and Hashset
 
 # Stream Questions:
 1. Find the Duplicate character in String
