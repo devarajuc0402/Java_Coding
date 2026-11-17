@@ -13,6 +13,7 @@
 6. Find first repeated number in array based on index
 7. Count character occurrence in a string
 8. Second most frequent character in a string
+9. Find maximum frequent word in a sentence [if have same count print all]
 
 # Stream Questions:
 1. Find the Duplicate character in String
