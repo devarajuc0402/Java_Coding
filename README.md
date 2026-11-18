@@ -42,7 +42,9 @@
 34. First character the occurs only once using array
 35. second highest frequency of character in a string map
 36. second lowest frequency of character in a string map
-37. Longest non repeated sub string in a string using loop
+37. Longest non repeated sub string in a string on kth distinct characters 
+	using loop
+38. Largest distinct substring in a string with loop [like need to check a,b,c,d]
 
 # Stream Questions:
 1. Find the Duplicate character in String
