@@ -2,7 +2,7 @@ package Coding.optimize;
 
 import java.util.Arrays;
 
-public class SecondMaxWordInStr {
+public class SecondMaxWordInStrLoop {
 
 	public static void main(String[] args) {
 		

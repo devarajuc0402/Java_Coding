@@ -40,6 +40,8 @@
 33. First character that occurs exactly twice using map
 33. First character that occurs more than twice using map
 34. First character the occurs only once using array
+35. second highest frequency of character in a string map
+36. second lowest frequency of character in a string map
 
 # Stream Questions:
 1. Find the Duplicate character in String
