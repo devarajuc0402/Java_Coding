@@ -36,6 +36,7 @@
 29. Second frequent word in a sentence using map and stream
 30. Top 2 word count in a sentence using map and stream
 31. Most frequent characters in a string using map and stream and array
+32. Print all minimum frequency character in a string using map
 
 # Stream Questions:
 1. Find the Duplicate character in String
