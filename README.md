@@ -33,13 +33,16 @@
 26. Find first non repeated string in a sentence using map
 27. Find first repeated string in a sentence using map
 28. Remove duplicate word in a sentence using set
-29. Second frequent word in a sentence using map
+29. Second frequent word in a sentence using map and stream
+30. Top 2 word count in a sentence using map and stream
 
 # Stream Questions:
 1. Find the Duplicate character in String
 2. Find maximum occurrence in String
 3. First non repeated character in String
 4. First repeated character in String
+5. Second frequent word in a sentence using map and stream
+6. Top 2 word count in a sentence using map and stream
 
 # Employee Stream Questions:
 1. First 2 maximum salary
