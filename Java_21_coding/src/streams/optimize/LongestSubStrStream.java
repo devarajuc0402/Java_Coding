@@ -8,9 +8,9 @@ public class LongestSubStrStream {
 
 	public static void main(String[] args) {
 		
-		String s = "abcabcbb";
+//		String s = "abcabcbb";
 //		String s = "pwwkew";
-//		String s = "abcd";
+		String s = "abcd";
 		System.out.println(s);
 		
 		List<String> res = IntStream.range(0, s.length())
