@@ -37,6 +37,9 @@
 30. Top 2 word count in a sentence using map and stream
 31. Most frequent characters in a string using map and stream and array
 32. Print all minimum frequency character in a string using map
+33. First character that occurs exactly twice using map
+33. First character that occurs more than twice using map
+34. First character the occurs only once using array
 
 # Stream Questions:
 1. Find the Duplicate character in String
