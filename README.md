@@ -32,6 +32,7 @@
 25. Find the longest polidrome in a string using loop
 26. Find first non repeated string in a sentence using map
 27. Find first repeated string in a sentence using map
+28. Remove duplicate word in a sentence using set
 
 # Stream Questions:
 1. Find the Duplicate character in String
