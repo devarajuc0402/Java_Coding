@@ -29,6 +29,9 @@
 22. Find longest word in a string using map
 23. Find the second max word in a sentence
 24. Find the longest non repeated first characters in a string
+25. Find the longest polidrome in a string using loop
+26. Find first non repeated string in a sentence using map
+27. Find first repeated string in a sentence using map
 
 # Stream Questions:
 1. Find the Duplicate character in String
