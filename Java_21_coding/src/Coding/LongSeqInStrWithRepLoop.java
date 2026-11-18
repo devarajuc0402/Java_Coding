@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class LongSeqInStr {
+public class LongSeqInStrWithRepLoop {
 
 	public static void main(String[] args) {
 		
