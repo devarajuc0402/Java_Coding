@@ -33,6 +33,7 @@
 26. Find first non repeated string in a sentence using map
 27. Find first repeated string in a sentence using map
 28. Remove duplicate word in a sentence using set
+29. Second frequent word in a sentence using map
 
 # Stream Questions:
 1. Find the Duplicate character in String
