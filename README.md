@@ -35,6 +35,7 @@
 28. Remove duplicate word in a sentence using set
 29. Second frequent word in a sentence using map and stream
 30. Top 2 word count in a sentence using map and stream
+31. Most frequent characters in a string using map and stream and array
 
 # Stream Questions:
 1. Find the Duplicate character in String
@@ -43,6 +44,7 @@
 4. First repeated character in String
 5. Second frequent word in a sentence using map and stream
 6. Top 2 word count in a sentence using map and stream
+7. Most frequent characters in a string using map and stream
 
 # Employee Stream Questions:
 1. First 2 maximum salary
