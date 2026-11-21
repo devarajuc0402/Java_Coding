@@ -46,6 +46,8 @@
 	using loop
 38. Largest distinct substring in a string with loop [like need to check a,b,c,d]
 39. Find longest sub string without repeating in a string using set & map
+40. Check anagram on 2 strings using map
+41. Longest sub string in a string using map
 
 # Stream Questions:
 1. Find the Duplicate character in String
