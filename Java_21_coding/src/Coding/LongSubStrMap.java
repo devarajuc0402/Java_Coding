@@ -14,6 +14,7 @@ public class LongSubStrMap {
 		
 		Map<Character, Integer> map = new LinkedHashMap<Character, Integer>();
 		int max = Integer.MIN_VALUE;
+		String res = "";
 		
 		for(int i=0;i<s.length();i++) {
 			
