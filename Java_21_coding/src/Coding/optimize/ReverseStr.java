@@ -1,8 +1,5 @@
 package Coding.optimize;
 
-import java.util.Arrays;
-import java.util.HashSet;
-
 public class ReverseStr {
 
 	public static void main(String[] args) {
@@ -12,15 +9,15 @@ public class ReverseStr {
 		char[] ch = s.toCharArray();
 		
 		int j = ch.length-1;
-		for(int i=0;i<ch.length && j >= 0;i++) {
+		for(int i=0;i<(ch.length-1)/2;i++) {
 			
 			char temp = ch[i];
-			ch[i] = ch[i+1];
-			ch[i+1] = temp;
+			ch[i] = ch[j];
+			ch[j] = temp;
 			j--;
 		}
 		
-		System.out.println(String.join("", new HashSet<String>()));
-		System.out.println(String.join("", Arrays.toString(ch)));
+		String res = String.valueOf(ch);
+		System.out.println(res);
 	}
 }
