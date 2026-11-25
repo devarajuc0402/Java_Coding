@@ -11,7 +11,8 @@ public class LongSubStrMap {
 //		String s = "abcabcbb";
 //		String s = "bbbbb";
 //		String s = "dvdf";
-		String s = "devarajuc";
+//		String s = "devarajuc";
+		String s = "cbbd";
 		
 		Map<Character, Integer> map = new HashMap<Character, Integer>();
 		int max = 0;
