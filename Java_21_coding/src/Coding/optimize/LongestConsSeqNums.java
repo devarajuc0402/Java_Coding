@@ -8,7 +8,8 @@ public class LongestConsSeqNums {
 	public static void main(String[] args) {
 		
 //		int[] arr = new int[] {100, 4, 200, 1, 3, 3, 2, 5, 6};
-		int[] arr = {1, 2, 3, 10, 11, 20, 21, 22, 23};
+//		int[] arr = {1, 2, 3, 10, 11, 20, 21, 22, 23};
+		int[] arr = {100, 4, 200, 1, 3, 2};
 		
 		Set<Integer> set = new HashSet<Integer>();
 

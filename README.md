@@ -48,7 +48,7 @@
 39. Find longest sub string without repeating in a string using set & map
 40. Check anagram on 2 strings using map
 41. Longest sub string in a string using map
-42. Find the longest consecutive sequence in an unsorted array
+42. Find the longest consecutive sequence in an unsorted array using set
 
 # Stream Questions:
 1. Find the Duplicate character in String
