@@ -17,9 +17,9 @@ public class FirstPosMisNumInArr {
 			set.add(i);
 		}
 		
-		int miss = 0;
+//		int miss = 0;
 		int current = 1;
-		int flag = 0;
+//		int flag = 0;
 //		for(int i : set) {
 //			
 //			flag = 0;
