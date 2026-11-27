@@ -51,6 +51,7 @@
 42. Find the longest consecutive sequence in an unsorted array using set
 43. Find the first missing positive integer in an unsorted array using set
 44. First non-repeating character in a String using map
+45. Find the duplicate elements in an array using map
 
 # Stream Questions:
 1. Find the Duplicate character in String
