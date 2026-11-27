@@ -60,6 +60,7 @@
 5. Second frequent word in a sentence using map and stream
 6. Top 2 word count in a sentence using map and stream
 7. Most frequent characters in a string using map and stream
+8. First non-repeating character in a String using streams
 
 # Employee Stream Questions:
 1. First 2 maximum salary
