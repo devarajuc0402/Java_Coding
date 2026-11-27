@@ -1,0 +1,33 @@
+package streams.optimize;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Optional;
+import java.util.Map.Entry;
+import java.util.stream.Collectors;
+
+public class SecondNonRepCharInStrStream {
+
+	public static void main(String[] args) {
+		
+//		String s = "swiss";
+		String s = "aabbcccddddeeee";
+		System.out.println(s);
+		
+		Optional<Entry<Character, Long>> res = s.chars()
+				.mapToObj(c -> (char)c)
+				.collect(Collectors.groupingBy(
+						c -> c,
+						LinkedHashMap::new,
+						Collectors.counting()
+				))
+				.entrySet()
+				.stream()
+				.sorted(Map.Entry.comparingByValue())
+				.skip(1)
+				.findFirst()
+				;
+		
+		System.out.println(res);
+	}
+}
