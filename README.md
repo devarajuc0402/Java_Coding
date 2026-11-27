@@ -52,6 +52,8 @@
 43. Find the first missing positive integer in an unsorted array using set
 44. First non-repeating character in a String using map
 45. Find the duplicate elements in an array using map
+46. Find the missing number in an array
+47. Find the second-largest distinct element in an array
 
 # Stream Questions:
 1. Find the Duplicate character in String
