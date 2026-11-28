@@ -58,6 +58,8 @@
 49. Move all zeros to the end of an array
 50. Find the missing and repeating numbers
 51. Find the majority element in an array [majority > arr.length/2]
+52. Two Sum Problem and find the indices of it
+53. Find Maximum and Minimum Elements in an Array
 
 # Stream Questions:
 1. Find the Duplicate character in String
