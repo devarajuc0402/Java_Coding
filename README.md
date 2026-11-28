@@ -56,6 +56,7 @@
 47. Find the second-largest distinct element in an array
 48. Move all zeros to the start of an array
 49. Move all zeros to the end of an array
+50. Find the missing and repeating numbers
 
 # Stream Questions:
 1. Find the Duplicate character in String
