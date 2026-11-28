@@ -54,6 +54,8 @@
 45. Find the duplicate elements in an array using map
 46. Find the missing number in an array
 47. Find the second-largest distinct element in an array
+48. Move all zeros to the start of an array
+49. Move all zeros to the end of an array
 
 # Stream Questions:
 1. Find the Duplicate character in String
