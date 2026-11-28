@@ -57,6 +57,7 @@
 48. Move all zeros to the start of an array
 49. Move all zeros to the end of an array
 50. Find the missing and repeating numbers
+51. Find the majority element in an array [majority > arr.length/2]
 
 # Stream Questions:
 1. Find the Duplicate character in String
